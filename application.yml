@@ -1,3 +1,7 @@
+---
+spring:
+  active:
+    profiles: lab-4-verb
 ---            
 eureka:
   client:
